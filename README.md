@@ -1,5 +1,5 @@
 {
-"newVersion": "1.6.0",
+
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.zero",
 "versionNotes":"
 • Fixed Globe/TM No Load Magic IP

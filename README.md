@@ -1,4 +1,5 @@
 {
+"newVersion": "1.9.0",
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.zero",
 "versionNotes":"
 • Update jLibs

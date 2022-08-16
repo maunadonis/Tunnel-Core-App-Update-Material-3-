@@ -1,10 +1,10 @@
 {
-
-"apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.zero",
+"newVersion": "1.0.1",
+"apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.qt",
 "versionNotes":"
-• Less Ads
-• Update Resources
-• Fix Minor Bugs
+• Fast Claim Time
+• Available Google Playstore
+• Minor bug fix and improvements
 [Dont forget to rate us 5 Star⭐]
 "
 }

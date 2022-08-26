@@ -1,5 +1,5 @@
 {
-
+"newVersion": "1.0.4",
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.qt",
 "versionNotes":"
 • Fast Claim Time

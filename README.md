@@ -1,5 +1,5 @@
 {
-"newVersion": "1.0.0",
+
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.tcv2",
 "versionNotes":"
 • Optimize UI Interface

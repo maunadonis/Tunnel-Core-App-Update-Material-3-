@@ -1,5 +1,5 @@
 {
-"newVersion": "1.1.6",
+
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.lite",
 "versionNotes":"
 Downlod Now Tunnel Core Plus
